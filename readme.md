@@ -187,7 +187,7 @@ Owner/Creater: Hamza Adnan
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[product-screenshot]: (https://github.com/Hamzaadnan12/Assignment-1-Readme/blob/main/img/main.png)
+[product-screenshot]: img/main.png
 [XAMP-Start]: img\XAMPstart.png
 [create-db]: img\phpadmin-db-create.png
 [command-db]: img\command-db.png
