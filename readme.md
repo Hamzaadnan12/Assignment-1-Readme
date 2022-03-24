@@ -188,14 +188,14 @@ Owner/Creater: Hamza Adnan
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [product-screenshot]: img/main.png
-[XAMP-Start]: img\XAMPstart.png
-[create-db]: img\phpadmin-db-create.png
-[command-db]: img\command-db.png
-[venv-activate]: img\venv-activate.png
-[flask-run]: img\flask-run.png
-[primary-key]: img\primary-key-match.png
-[insert-data]: img\insert-data.gif
-[update-data]: img\update-data.gif
-[delete-data]: img\delete-data.gif
-[insert-data-courses]: img\insert-data-courses.gif
-[insert-data-grades]: img\insert-data-grades.gif
+[XAMP-Start]: img/XAMPstart.png
+[create-db]: img/phpadmin-db-create.png
+[command-db]: img/command-db.png
+[venv-activate]: img/venv-activate.png
+[flask-run]: img/flask-run.png
+[primary-key]: img/primary-key-match.png
+[insert-data]: img/insert-data.gif
+[update-data]: img/update-data.gif
+[delete-data]: img/delete-data.gif
+[insert-data-courses]: img/insert-data-courses.gif
+[insert-data-grades]: img/insert-data-grades.gif
