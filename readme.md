@@ -64,7 +64,11 @@ _Make sure this project directory is placed into a resonable place and use the t
    ```sh
     pip install flask-marshmallow
    ```
-4. Install SQLAlchemy
+4. Install Flask CORS
+  ```sh
+    pip install -U flask-cors
+   ```
+5. Install SQLAlchemy
     ```sh
     pip install Flask-SQLAlchemy
    ```
